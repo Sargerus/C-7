@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<head>
+  <Student Number="0">
+    <Name>fdg</Name>
+    <Surname>sdg</Surname>
+    <LastName>eadsg</LastName>
+    <Age>15</Age>
+    <Sex>Мужской</Sex>
+    <Course>4</Course>
+    <Proffesion>Информационные системы и технологии</Proffesion>
+    <Group>3</Group>
+    <City>cfvx</City>
+    <House>3245</House>
+    <Street>rsfg</Street>
+    <Index>23425</Index>
+    <Date>22.04.2017</Date>
+  </Student>
+</head>
